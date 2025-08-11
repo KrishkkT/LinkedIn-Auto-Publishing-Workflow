@@ -56,7 +56,7 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 ---
 
 ## 🔗 Live Links
-- **Website:** [https://kjt.vercel.app](https://krishthakker.tech)  
+- **Website:** [https://krishthakker.tech](https://krishthakker.tech)  
 - **Blog Post Example:** [https://www.krishthakker.tech/blog/red-team-vs-blue-team-inside-the-battlefield]([https://lnkd.in/djK9PHa7](https://www.krishthakker.tech/blog/red-team-vs-blue-team-inside-the-battlefield))  
 
 ---
@@ -64,4 +64,4 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 ## 📧 Contact
 For collaborations or technical queries:  
 - **Email:** kjthakker8@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/krishthakker08)
+- **LinkedIn:** [Linkedin](https://linkedin.com/in/krishthakker08)
