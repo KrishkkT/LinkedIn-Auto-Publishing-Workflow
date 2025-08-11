@@ -47,6 +47,22 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 
 ---
 
+## 📂 How It Works
+1. **Create Blog** – Add a blog post in the dashboard.  
+   ![Dashboard Screenshot](images/dashboard.png)  
+
+2. **Trigger Automation** – n8n listens for new entries.  
+   ![n8n Workflow Screenshot](images/n8n-screenshot.png)  
+
+3. **AI Processing** – OpenAI formats and enhances the content.  
+4. **Publish** – Blog is deployed to the website and posted to LinkedIn via Make.  
+   ![Make Automation Screenshot](images/make-screenshot.png)  
+
+5. **Notify** – Email alerts are sent to subscribers.  
+   ![Email Notification Screenshot](images/email-screenshot.png)  
+
+---
+
 ## 🚀 Benefits
 - Zero repetitive copy-paste work  
 - Consistent and timely sharing of content  
@@ -63,5 +79,5 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 
 ## 📧 Contact
 For collaborations or technical queries:  
-- **Email:** kjthakker8@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/krishthakker08)
+- **Email:** your-email@example.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
