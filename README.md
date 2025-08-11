@@ -29,7 +29,7 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 ---
 
 ## ✨ Features
-- **One-Click Publish** – Write a blog in the dashboard and trigger the entire flow.
+- **One-Click Publish** – Write a blog in the the form and trigger the entire flow.
 - **AI-Powered Formatting** – OpenAI processes and optimizes the blog content before publishing.
 - **Automatic Multi-Channel Posting** – Blog appears on both the website and LinkedIn instantly.
 - **Email Notifications** – Subscribers get notified as soon as a new blog is live.
@@ -44,22 +44,6 @@ This workflow eliminates repetitive tasks, ensures consistency, and saves signif
 - **Custom Blog Dashboard** – Blog creation and management  
 - **LinkedIn API** – Automated posting  
 - **Email Service** – For subscriber notifications  
-
----
-
-## 📂 How It Works
-1. **Create Blog** – Add a blog post in the dashboard.  
-   ![Dashboard Screenshot](images/dashboard.png)  
-
-2. **Trigger Automation** – n8n listens for new entries.  
-   ![n8n Workflow Screenshot](images/n8n-screenshot.png)  
-
-3. **AI Processing** – OpenAI formats and enhances the content.  
-4. **Publish** – Blog is deployed to the website and posted to LinkedIn via Make.  
-   ![Make Automation Screenshot](images/make-screenshot.png)  
-
-5. **Notify** – Email alerts are sent to subscribers.  
-   ![Email Notification Screenshot](images/email-screenshot.png)  
 
 ---
 
